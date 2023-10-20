@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-App/static/css/main.bb5bdf5c.css",
+    "main.js": "/E-Commerce-App/static/js/main.bbd27679.js",
+    "static/js/787.8806c43f.chunk.js": "/E-Commerce-App/static/js/787.8806c43f.chunk.js",
+    "static/media/fa-solid-900.ttf": "/E-Commerce-App/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/image 9.png": "/E-Commerce-App/static/media/image 9.f4ed9ad99f679214cfbf.png",
+    "static/media/image 15.png": "/E-Commerce-App/static/media/image 15.62878b29c6b8697e8f2b.png",
+    "static/media/fa-brands-400.ttf": "/E-Commerce-App/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/E-Commerce-App/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/image 10.png": "/E-Commerce-App/static/media/image 10.aa94beab3d45762ca830.png",
+    "static/media/image 7.png": "/E-Commerce-App/static/media/image 7.d602c130be5917aa31e6.png",
+    "static/media/fa-brands-400.woff2": "/E-Commerce-App/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/E-Commerce-App/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/E-Commerce-App/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/E-Commerce-App/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/image 5.jpg": "/E-Commerce-App/static/media/image 5.96a08320f0007d30af67.jpg",
+    "static/media/image 2.jpg": "/E-Commerce-App/static/media/image 2.d97d01f6b579324b1cd6.jpg",
+    "static/media/image 4.jpg": "/E-Commerce-App/static/media/image 4.941f444ea4800c7f2e40.jpg",
+    "static/media/fa-v4compatibility.ttf": "/E-Commerce-App/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-Commerce-App/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/E-Commerce-App/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-Commerce-App/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-Commerce-App/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-Commerce-App/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-Commerce-App/index.html",
+    "main.bb5bdf5c.css.map": "/E-Commerce-App/static/css/main.bb5bdf5c.css.map",
+    "main.bbd27679.js.map": "/E-Commerce-App/static/js/main.bbd27679.js.map",
+    "787.8806c43f.chunk.js.map": "/E-Commerce-App/static/js/787.8806c43f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5bdf5c.css",
+    "static/js/main.bbd27679.js"
+  ]
+}
