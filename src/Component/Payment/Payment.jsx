@@ -18,7 +18,7 @@ const Payment = () => {
                 },
                 {
                     headers: { token: localStorage.getItem("tkn") },
-                    params: { url: `http://localhost:${window.location.port}` }
+                    params: { url: `https://3laaelsheikh.github.io/E-Commerce-App/` }
                 });
 
 
